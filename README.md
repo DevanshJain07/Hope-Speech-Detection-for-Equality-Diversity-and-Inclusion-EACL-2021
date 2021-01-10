@@ -1,2 +1,3 @@
-# ml-project 
-1st git commit
+# Hope-Speech-Detection-for-Equality-Diversity-and-Inclusion-EACL-2021
+
+**Hope is considered significant for the well-being, recuperation and restoration of human life by health professionals. Hope speech reflects the belief that one can discover pathways to their desired objectives and become roused to utilise those pathways[1-5]. Our work aims to change the prevalent way of thinking by moving away from a preoccupation with discrimination, loneliness or the worst things in life to building the confidence, support and good qualities based on comments by individuals. The goal of this task is to identify whether a given comment contains hope speech or not. We define the hope speech for our problem as "YouTube comments / posts that offer support, reassurance, suggestions, inspiration and insight". A comment / post within the corpus may contain more than one sentence but the average sentence length of the corpora is 1. The annotations in the corpus are made at a comment / post level.
